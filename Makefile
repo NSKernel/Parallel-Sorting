@@ -21,9 +21,4 @@ endif
 
 clean:
 	rm -rf build
-	rm -rf output1.txt
-	rm -rf output2.txt
-	rm -rf output3.txt
-	rm -rf output4.txt
-	rm -rf output5.txt
-	rm -rf output6.txt
+	rm -rf output*.txt
